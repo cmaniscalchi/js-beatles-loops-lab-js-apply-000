@@ -14,3 +14,9 @@ function johnLennonFacts(facts) {
     i++}
   return array;
 }
+
+function iLoveTheBeatles(n) {
+  var array = [];
+  var i = 0;
+  
+}).toEqual(["I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!"]);
